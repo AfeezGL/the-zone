@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "81700683614",
+    "firebase_url": "https://thezone-5badc-default-rtdb.firebaseio.com",
+    "project_id": "thezone-5badc",
+    "storage_bucket": "thezone-5badc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81700683614:android:8a5cd6132d5c0689fe19cf",
+        "android_client_info": {
+          "package_name": "com.thezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81700683614-btqvesj8mbnkplmrvjrkmugn0rtbbrh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thezone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "81700683614-if20rcrq08r2v40cajqhjkv9pvhbdtdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thezone",
+            "certificate_hash": "0c22c8dd11451d54a394df260abb2f508ab56403"
+          }
+        },
+        {
+          "client_id": "81700683614-rnj7029lsek4j4hg3fk3tcvnrs2oa1el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCvEPElYndbEEWuhcAjLH0hvdWUYUuNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81700683614-rnj7029lsek4j4hg3fk3tcvnrs2oa1el.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81700683614-9q4neafuu21bucnh0o4gjlpvbs32j8bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afeezgl.thezone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
